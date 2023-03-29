@@ -1,0 +1,44 @@
+These files must all be installed to the game directory
+and/or the WINDOWS/SYSTEM directory:
+
+STREET.EXE	(Program file)
+VBRUN300.DLL	(Needed by Visual Basic 3.0 applications)
+THREED.VBX	(Code library)
+PICCLIP.VBX	(Code library)
+GAUGE.VBX	(Code library)
+MCI.VBX		(Code library)
+STREET.HLP	(Help file)
+STREET.MID	(Music sound track)
+CRASH.WAV	(Sound effects file)
+ENDTRIP.WAV	(Sound effects file)
+OUTOFGAS.WAV	(Sound effects file)
+STARTUP.WAV	(Sound effects file)
+STARTCAR.WAV	(Sound effects file)
+YOUBUM.WAV	(Sound effects file)
+DEFAULT.BIG	(Data file necessary for game)
+DEFAULT.LIT	(Data file necessary for game)
+DEFAULT.STG	(Data file necessary for game)
+README.WRI	(Info on installation and troubleshooting)
+REGISTER.TXT	(Order form for registered version)
+FILES.LST	(This file)
+
+These files are used for the Street Shuffle Setup program
+and will be included on the distribution disk, but are
+not necessary to play the game once installed:
+
+SETUP.EXE	(Program file)
+SETUPKIT.DLL	(Code library)
+VER.DLL		(Code library)
+
+These files are used for identification purposes on Bulletin
+Board Services and are not used by the game in any way.
+
+DESC.SDI	(Description of game)
+FILE_ID.DIZ	(Description of game)
+
+These files are created by the game and may be found in
+the Street Shuffle game directory:
+
+DEFAULT.SCR	(Hi-Score file)
+STREET.SAV	(Saved games file)
+STREET.INI	(Initialization file)

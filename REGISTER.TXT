@@ -1,0 +1,44 @@
++----------------------------------------------------------------------------+
+| Street Shuffle ver 1.5 Registration Form                                   | 
+|----------------------------------------------------------------------------|
+| Please complete all questions in this section:                             |
+|                                                                            |
+| Name:_____________________________________________________________________ |
+|                                                                            | 
+| Street Address:___________________________________________________________ |
+|                                                                            |
+| City:________________________________ State:________ Zip:_________________ |
+|                                                                            | 
+| What type of diskettes do you require? (Check one):                        |
+| 3 1/2" DS/HD (1.4 mb) 1 disk ___         3 1/2" DS/DD 2 disks (720 kb) ___ |
+| 5 1/4" DS/HD (1.2 mb) 1 disk ___         5 1/4" DS/DD 4 disks (360 kb) ___ |
+|                                                                            | 
+| The registration fee for Street Shuffle is $7.00 US + $3.00 Shipping and   |
+| Handling.  You need not include the Shipping and Handling fee if you       |
+| include the needed blank diskettes and a self-addressed, stamped envelope. |
+|                                                                            | 
+| Check One:                                                                 |
+| I have enclosed payment of $10.00 ___                                      |
+| I have enclosed payment of $7.00, all diskettes and an SASE ___            |
+|----------------------------------------------------------------------------|
+| Completion of the following information is optional:                       |
+|                                                                            | 
+| What version of Windows (or OS/2) are you using?:______                    |
+|                                                                            | 
+| Where did you obtain this copy of Street Shuffle?:                         |
+| Bulletin Board Service: Name:______________________ Phone #:______________ |
+| Friend:___                                                                 |
+| Other:____________________________________________________________________ |
+|                                                                            | 
+| Any questions, comments, or future changes you would like to see made?:    |
+| __________________________________________________________________________ |
+| __________________________________________________________________________ |
+|----------------------------------------------------------------------------|
+| Send your check or money order payable to MaxWare and this form to:        |
+|                                                                            | 
+|                                             Street Shuffle Registration    |
+|                                             4645 East Glen Ridge Circle    |
+|                                             Winston, GA           30187    |
+|                                                                            | 
+| Please allow 2 to 3 weeks for deliveries within the United States.         |
++----------------------------------------------------------------------------+
